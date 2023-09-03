@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0",
+    "img": "geely_monjaro_front.jpg",
+    "img1": "geely_monjaro.jpg",
+    "title": "Заголовок",
+    "text": "Основной текст",
+    "text_demo": "Текст демопросмота",
+    "author": "Автор"
+  },
+  {
+    "id": "1",
+    "img": "geely_monjaro.jpg",
+    "img1": "geely_monjaro_front.jpg",
+    "title": "Заголовок",
+    "text": "Основной текст",
+    "text_demo": "Текст демопросмота",
+    "author": "Автор"
+  },
+  {
+    "id": "2",
+    "img": "geely_monjaro_front.jpg",
+    "img1": "geely_monjaro.jpg",
+    "title": "Заголовок",
+    "text": "Основной текст",
+    "text_demo": "Текст демопросмота",
+    "author": "Автор"
+  },
+  {
+    "id": "3",
+    "img": "geely_monjaro.jpg",
+    "img1": "geely_monjaro_front.jpg",
+    "title": "Заголовок",
+    "text": "Основной текст",
+    "text_demo": "Текст демопросмота",
+    "author": "Автор"
+  },
+  {
+    "id": "4",
+    "img": "geely_monjaro_front.jpg",
+    "img1": "geely_monjaro.jpg",
+    "title": "Заголовок",
+    "text": "Основной текст",
+    "text_demo": "Текст демопросмота",
+    "author": "Автор"
+  },
+  {
+    "id": "5",
+    "img": "geely_monjaro.jpg",
+    "img1": "geely_monjaro_front.jpg",
+    "title": "Заголовок",
+    "text": "Основной текст",
+    "text_demo": "Текст демопросмота",
+    "author": "Автор"
+  },
+  {
+    "id": "6",
+    "img": "geely_monjaro_front.jpg",
+    "img1": "geely_monjaro.jpg",
+    "title": "Заголовок",
+    "text": "Основной текст",
+    "text_demo": "Текст демопросмота",
+    "author": "Автор"
+  },
+  {
+    "id": "7",
+    "img": "geely_monjaro.jpg",
+    "img1": "geely_monjaro_front.jpg",
+    "title": "Заголовок",
+    "text": "Основной текст",
+    "text_demo": "Текст демопросмота",
+    "author": "Автор"
+  }
+]
